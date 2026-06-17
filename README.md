@@ -62,23 +62,23 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NehaBansal451&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
-## 📌 Pinned
+## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/NehaBansal451/Git_repo_analyzser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaBansal451&repo=Git_repo_analyzser&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NehaBansal451/neetcode-submissions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaBansal451&repo=neetcode-submissions&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/NehaBansal451/NehaBansal451/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/NehaBansal451/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaBansal451&repo=portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/NehaBansal451/aijob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NehaBansal451&repo=aijob&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaBansal451&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=NehaBansal451&color=58A6FF&style=flat-square&label=Profile+Views)
+
+</div>
 </p>
 
 <br/>
