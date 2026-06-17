@@ -59,7 +59,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NehaBansal451&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=NehaBansal451&theme=tokyonight&no-frame=true&margin-w=4" />
 </p>
 
 ## 🐍 Contribution Graph
@@ -70,15 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NehaBansal451&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=NehaBansal451&color=58A6FF&style=flat-square&label=Profile+Views)
-
-</div>
 </p>
 
 <br/>
